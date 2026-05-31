@@ -50,7 +50,7 @@
 
 ##  Дашборд в Tableau Public (5 вкладок)
 
- **[Смотреть интерактивный дашборд](https://public.tableau.com/...)** *(вставьте вашу ссылку)*
+ **[Смотреть интерактивный дашборд]** *[ссылка](https://public.tableau.com/views/AveragehousingpricesinthecitiesofKazakhstan/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 | Вкладка | Содержание |
 |---------|------------|
@@ -82,7 +82,7 @@
 
 ##  Ссылки
 
-- [Tableau Public — интерактивный дашборд](https://public.tableau.com/...)
+- [Tableau Public — интерактивный дашборд](https://public.tableau.com/views/AveragehousingpricesinthecitiesofKazakhstan/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Исходные данные (Excel)](./data/housing_prices_kazakhstan_april_2026.xlsx)
 
 ---
